@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Typewriter Effect
     const typewriterEl = document.getElementById('typewriter');
     const titles = [
-        'Technical Courseware Developer @ Zscaler',
+        'Technical Courseware Developer at Zscaler',
         'Cybersecurity Professional',
-        'Educator & Senior Lecturer',
-        'APNIC & APSIG Fellow',
-        'Artist & Singer',
-        'Cloud Security Specialist'
+        'Academician — Lecturer',
+        'APNIC, APSIG, APIGA, APrIGF Fellow',
+        'Cloud Security',
+        'Singer'
     ];
     let titleIndex = 0;
     let charIndex = 0;
