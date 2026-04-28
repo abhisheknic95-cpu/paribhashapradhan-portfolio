@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const typewriterEl = document.getElementById('typewriter');
     const titles = [
         'Technical Courseware Developer at Zscaler',
+        'Vice Chair at APSIG',
         'Cybersecurity Professional',
         'Academician — Lecturer',
         'APNIC, APSIG, APIGA, APrIGF Fellow',
